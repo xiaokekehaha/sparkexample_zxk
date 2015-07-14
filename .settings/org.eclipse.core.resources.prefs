@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//conf/log4j.properties=UTF-8
+encoding//src/main/scala/cn/chinahadoop/scala/KMeans.scala=UTF-8
+encoding//src/main/scala/cn/chinahadoop/spark/ch08=UTF-8
+encoding//src/main/scala/cn/chinahadoop/spark/ch08/RunKMeansTest.scala=UTF-8
+encoding//src/main/scala/cn/chinahadoop/spark/test.scala=UTF-8
+encoding//src/main/scala/com/spark/hbase=UTF-8
+encoding/<project>=UTF-8
